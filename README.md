@@ -2,7 +2,7 @@
 
 Currently dumping plugins will cause the app to be terminated by jetsam: https://github.com/ChiChou/frida-ipa-dump/issues/13
 
-I am working on a completly node.js rewritten version.
+It's broken now, please don't use until I figure out how to solve the bug
 
 ---
 
